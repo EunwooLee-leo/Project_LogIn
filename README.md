@@ -9,6 +9,7 @@
 2. Log-in form was made inspired by KaKaotalk program.
 3. The functions consist of Sign-up, find accound and QR code log-in.
 4. Sign-up and find my acoount functions are connected with database system.
-5. QR code Log-in works as follows : a) As you sign up, QR code containing personal information is made.
-                                     b) When you upload the code, program decode and put the decoded information into log-in surface.
-                                     c) finally, log-in works.
+5. QR code Log-in works as follows :
+   a) As you sign up, QR code containing personal information is made.
+   b) When you upload the code, program decode and put the decoded information into log-in surface.
+   c) finally, log-in works.
